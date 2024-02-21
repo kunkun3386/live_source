@@ -17,21 +17,6 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-CCTV世界地理 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV兵器科技 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV央视文化精品 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-CCTV怀旧剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV电视指南 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-CCTV第一剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
 卫视频道,#genre#
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
